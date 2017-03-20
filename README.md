@@ -7,3 +7,5 @@
 - 6__Cluster4.py : A 2-dimensional random numbers example of Hierarchical Clustering
 - 6__Cluster5.py : An example of hierarchical clustering of 100 images of sunsets using a 512 bin histogram in RGB coordinates as feature vector
 - 6__Cluster6.py : Spectral clustering of font images using the eigenvectors of the Laplacian matrix
+- imtools.py : load file path in folder
+- hcluster.py : Hierarchical Clustering Class
